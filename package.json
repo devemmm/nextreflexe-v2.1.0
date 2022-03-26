@@ -1,5 +1,6 @@
 {
   "name": "nextreflexe-v2.1.0",
+  "homepage": "https://nextreflexe.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
